@@ -1,4 +1,4 @@
-module Pods_Swifty_Companion {
+framework module Pods_Swifty_Companion {
   umbrella header "Pods-Swifty-Companion-umbrella.h"
 
   export *
